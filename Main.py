@@ -1,12 +1,3 @@
-"""
-RunBot Simulation Platform with Streamlit
------------------------------------------
-A parametric version of the simulation code that allows users to input
-parameters via a Streamlit UI and dynamically run the simulation.
-
-Usage:
-    streamlit run runbot_streamlit.py
-"""
 
 import streamlit as st
 import pandas as pd
