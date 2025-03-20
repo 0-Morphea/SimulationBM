@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+seaborn
+enum
+typing
+dataclasses
+matplotlib.pyplot
