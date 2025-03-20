@@ -3,6 +3,5 @@ pandas
 numpy
 seaborn
 enum
-typing
-dataclasses
+dataclass
 matplotlib.pyplot
